@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pheonixcard" size="0.600000 0.337637" />
+    <ImageTarget name="1701cardnn" size="0.600000 0.343669" />
+    <ImageTarget name="card1701" size="0.600000 0.337500" />
+    <ImageTarget name="ship_poster" size="0.600000 0.776471" />
+  </Tracking>
+</QCARConfig>
