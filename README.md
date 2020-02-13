@@ -37,6 +37,15 @@ Once you have selected your image it will be added to the database, then you can
 
 ![arss1.png](https://www.dropbox.com/s/drz6bih5tpsq5vs/arss1.png?dl=0&raw=1)
 
+Once you import the database you can add an image target object to the scene and select the image you uploaded to the database. That will be the image that is picked up by the AR Camera Object. 
+
+![arss4.png](https://www.dropbox.com/s/gm1wwse6easdv22/arss4.png?dl=0&raw=1)
+
+![arss3.png](https://www.dropbox.com/s/amw9yemcr3p6klj/arss3.png?dl=0&raw=1)
+
+Then I added my model with its animations. I created a simple particle effect that looked like embers
+![arss5.png](https://www.dropbox.com/s/k2icj2ed1payxwa/arss5.png?dl=0&raw=1)
+
 --------------------------------------
 
 ##### Problems I ran into
