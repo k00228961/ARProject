@@ -46,11 +46,21 @@ Once you import the database you can add an image target object to the scene and
 Then I added my model with its animations. I created a simple particle effect that looked like embers
 ![arss5.png](https://www.dropbox.com/s/k2icj2ed1payxwa/arss5.png?dl=0&raw=1)
 
+I added a script to rotate the particles.
+
+![Screenshot 2020-02-13 at 19.24.47.png](https://www.dropbox.com/s/7q9q1pd5ge24e5z/Screenshot%202020-02-13%20at%2019.24.47.png?dl=0&raw=1)
+
+Link to video 
+https://streamable.com/qwicn
+
+
 --------------------------------------
 
 ##### Problems I ran into
 
 Working with the particle system in unity is not as easy as it looks. Having the right amount of particles displayed so that there wouldn't be any lag on the mobile device.
+
+I also tried to create particles that took a map of current stars and there positions but I couldn't get it to work. So I opted for the ember effect.
 
 --------------------------------------
 
