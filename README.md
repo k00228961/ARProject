@@ -50,6 +50,8 @@ I added a script to rotate the particles.
 
 ![Screenshot 2020-02-13 at 19.24.47.png](https://www.dropbox.com/s/7q9q1pd5ge24e5z/Screenshot%202020-02-13%20at%2019.24.47.png?dl=0&raw=1)
 
+After the script was added it was time to build and test the project.
+
 Link to video 
 https://streamable.com/qwicn
 
@@ -67,5 +69,5 @@ I also tried to create particles that took a map of current stars and there posi
 ##### Features I would have liked to work
 
 I would have liked to have a nicer particle effect orbiting the model.
-
+I also would like some kind of audio that would match the theme.
 
